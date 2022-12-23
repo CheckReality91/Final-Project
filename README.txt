@@ -2,6 +2,8 @@ Thank you for opening this file! This is still a work in progress!
     !! Happy Reading !!
 
 
+!!!----  Food Cost Menu Calculator  ---!!!
+
 Story about myself:
     In (I believe) February 2022 i found the Youtuber Internet Made Coder?? Who was talking about the CS50 course in his video. 
 
@@ -26,3 +28,7 @@ To-Do:
     - What is the goal of this project
     - Finish the README file
     - Make my first plan in the Notion app.
+    - Make a Homepage/Index page
+    - Make a NavBar
+    - Make a template
+    
