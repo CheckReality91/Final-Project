@@ -21,7 +21,7 @@ Documentation:
 Tools to use:
     - Webscraping?
     - Is there an API for sligro
-    - 
+    - Beautifull Soup is the library you can use for getting data from webpages.
 
 
 To-Do:
